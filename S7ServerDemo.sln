@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1082
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S7ServerDemo", "S7Server\S7ServerDemo.csproj", "{F5DDB2BD-33CE-4AD1-89C5-298454AEE84A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5DDB2BD-33CE-4AD1-89C5-298454AEE84A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5DDB2BD-33CE-4AD1-89C5-298454AEE84A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5DDB2BD-33CE-4AD1-89C5-298454AEE84A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5DDB2BD-33CE-4AD1-89C5-298454AEE84A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+		SolutionGuid = {FB71844F-4994-4D28-9E53-61EAD70B4CBD}
+	EndGlobalSection
+EndGlobal
